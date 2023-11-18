@@ -1,2 +1,2 @@
-# wisewastemanagement
-My wisewastemanagement From Complete web Development course
+# Wastemanagement
+My Wastemanagement From Complete web Development course
